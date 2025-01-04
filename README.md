@@ -1,6 +1,6 @@
 
 <div>
-    <video src="https://github.com/user-attachments/assets/1543788e-f731-4624-8cc1-1012d6e0314f" loop></video>
+    <video src="https://github.com/user-attachments/assets/1543788e-f731-4624-8cc1-1012d6e0314f" loop autoplay></video>
 </div>
 
 
